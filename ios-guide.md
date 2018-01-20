@@ -7,7 +7,7 @@ Includes Google Sign-In SDK v4.0.0
 #### Automatic
 
 - link the lib with `react-native link react-native-google-signin`
-- install the Google Signin SDK with [CocoaPods](https://cocoapods.org/) (add `pod 'Google/SignIn'` in your Podfile and run `pod install`)
+- install the Google Signin SDK with [CocoaPods](https://cocoapods.org/) (add `pod 'RNGoogleSignin', :path => '../node_modules/react-native-google-signin` in your Podfile and run `pod install`)
 
 #### Manual
 
